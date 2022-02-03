@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+I'm Laura, and I'm a technical writer and math lecturer specializing in data science and AI ethics.
 
 <!--
 **LauraLangdon/LauraLangdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
