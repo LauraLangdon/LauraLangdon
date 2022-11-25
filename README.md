@@ -3,8 +3,9 @@ I'm Laura, and I'm a technical writer and DevRel 🎈Team Neurodivergence  �
 
 You can also find me in these places:
 
-- [Mastodon](https://mastodon.social/@g0g0gadget)
+- [Mastodon](https://sfba.social/@LauraLangdon)
 - [Polywork](https://www.polywork.com/lauralangdon)
-- [Twitch](https://www.twitch.tv/go_g0_gadget)
-- [lauralangdon.io](https://lauralangdon.io)
+- [Twitch](https://www.twitch.tv/LauraLangdon)
+- [YouTube](https://youtube.com/@Laura-Langdon)
+- [LauraLangdon.io](https://lauralangdon.io)
 - [Twitter](https://twitter.com/laura_e_langdon)
