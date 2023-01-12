@@ -1,9 +1,9 @@
 ### Hello! 👋
-I'm Laura, and I'm a technical writer and DevRel 🎈Team Neurodivergence  🎈Black Lives Matter  🎈 She/her
+I'm Laura, and I'm a Developer Advocate and Educator 🎈Team Neurodivergence 🎈Black Lives Matter 🎈 She/her
 
 You can also find me in these places:
 
-- [Mastodon](https://sfba.social/@LauraLangdon)
+- [Mastodon](https://hachyderm.io/@LauraLangdon)
 - [Polywork](https://www.polywork.com/lauralangdon)
 - [Twitch](https://www.twitch.tv/LauraLangdon)
 - [YouTube](https://youtube.com/@Laura-Langdon)
