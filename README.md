@@ -11,3 +11,4 @@ You can also find me in these places:
 - [YouTube](https://youtube.com/@Laura-Langdon)
 - [LauraLangdon.io](https://lauralangdon.io)
 - [Twitter](https://twitter.com/laura_e_langdon)
+- [LinkedIn](https://linkedin.com/in/laura-langdon)
