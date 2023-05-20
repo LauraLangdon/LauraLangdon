@@ -6,6 +6,7 @@ I'm Laura, and I'm a Developer Advocate at Suborbital Software Systems, where I 
 You can also find me in these places:
 
 - [Mastodon](https://hachyderm.io/@LauraLangdon)
+- [BlueSky](https://bsky.app/profile/lauralangdon.io)
 - [Polywork](https://www.polywork.com/lauralangdon)
 - [Twitch](https://www.twitch.tv/LauraLangdon)
 - [YouTube](https://youtube.com/@Laura-Langdon)
