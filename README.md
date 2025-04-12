@@ -5,11 +5,9 @@ I'm Laura, and I'm a Developer Advocate passionate about documentation, inclusio
 
 You can also find me in these places:
 
+- [LauraLangdon.io](https://lauralangdon.io)
 - [Mastodon](https://hachyderm.io/@LauraLangdon)
 - [BlueSky](https://bsky.app/profile/lauralangdon.io)
-- [Polywork](https://www.polywork.com/lauralangdon)
 - [Twitch](https://www.twitch.tv/LauraLangdon)
 - [YouTube](https://youtube.com/@laura-langdon)
-- [LauraLangdon.io](https://lauralangdon.io)
-- [Twitter](https://twitter.com/laura_e_langdon)
 - [LinkedIn](https://linkedin.com/in/laura-langdon)
